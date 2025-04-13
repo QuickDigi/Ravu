@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/App/css/index.module.css"],
+  "sourcesContent": ["* {\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\n.Body {\r\n    background: #222;\r\n    width: 100%;\r\n    height: 100vh;\r\n    color: #fff;\r\n}"],
+  "mappings": "AAAA,SACY,EADZ,QAEa,CACb,CAEA,CAACA,EACG,WAAY,KACZ,MAAO,KACP,OAAQ,MACR,MAAO,IACX",
+  "names": ["Body"]
+}
