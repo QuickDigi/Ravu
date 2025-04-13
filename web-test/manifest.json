@@ -1,0 +1,9 @@
+{
+    "name": "Ravu Application",
+    "short_name": "Ravu App",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "."
+}
