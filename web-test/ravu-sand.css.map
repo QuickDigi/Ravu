@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../src/index.css", "../src/App/scss/index.module.scss"],
-  "sourcesContent": ["*{margin: 0;padding: 0;}", "\r\n.body\r\n{\r\n    background: #222;\r\n    width: 100%;\r\n    height: 100vh;\r\n    color: #fff;\r\n}"],
-  "mappings": "AAAA,SAAU,EAAV,QAAqB,CAAE,CCCvB,CAAA,KAEI,WAAA,KACA,MAAA,KACA,OAAA,MACA,MAAA",
-  "names": []
-}
